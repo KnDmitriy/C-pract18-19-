@@ -1,0 +1,15 @@
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/bin/Debug/net6.0/pract_18-19
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/bin/Debug/net6.0/pract_18-19.deps.json
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/bin/Debug/net6.0/pract_18-19.runtimeconfig.json
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/bin/Debug/net6.0/pract_18-19.dll
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/bin/Debug/net6.0/pract_18-19.pdb
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/pract_18-19.csproj.AssemblyReference.cache
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/pract_18-19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/pract_18-19.AssemblyInfoInputs.cache
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/pract_18-19.AssemblyInfo.cs
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/pract_18-19.csproj.CoreCompileInputs.cache
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/pract_18-19.dll
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/refint/pract_18-19.dll
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/pract_18-19.pdb
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/pract_18-19.genruntimeconfig.cache
+/Users/DmitryKonorov/StudyProjectsC#_3d_semester/pract_18-19/obj/Debug/net6.0/ref/pract_18-19.dll
